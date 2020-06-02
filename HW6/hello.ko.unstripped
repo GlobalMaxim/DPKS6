@@ -1,0 +1,371 @@
+ELF          (            î    4     ( 4 3          GNU ¥`æ£(j˚…≈ú&†îM¿„´	:m         Linux       p@-È P†·  êÂ  U· @êÂ    Í@†·˛ˇˇÎ U· 0îÂ †·˘ˇˇ PÖÂPÖÂpÄΩËG-È @ „ @@„ îÂ
+ Q„   öÚÁ0A‚  Q„ S  ä   „  @„˛ˇˇÎ¨ÄüÂ p „¿ê†„ p@„`ê@„ `†„ 0îÂ S·!  ö †„	†· óÂ˛ˇˇÎ PP‚  
+  îÂ`Ü‚0îÂ
+ R„ P†PÑÂ ÄÖÂ0ÖÂ PÉÂ˛ˇˇÎ¯ ≈·   „  @„˛ˇˇÎÁˇˇÍ0îÂ PìÂ S·  
+ †·˛ˇˇÎ0†· PïÂ¯ˇˇÍ0ÑÂ ‡„0ÑÂáΩË  †„áΩË    0 „ 0@„A-ÈpÉ‚PìÂ ` „ `@„@†·Ä†· U·  
+ÿ ≈· †·˛ˇˇÎ PïÂ¯ˇˇÍ0îÂ PìÂ S· †·  
+˛ˇˇÎ0†· PïÂ¯ˇˇÍ   „0ÑÂ0ÑÂ  @„AΩË˛ˇˇÍ    ∞∞™Ä/home/parallels/Desktop/HW6/hello.c     ∞∞ÆÄ    ∞∞¨Ävalue   parm=value:This parameter defines a number of output strings parmtype=value:uint license=Dual BSD/GPL   depends= name=hello vermagic=4.19.123 SMP mod_unload ARMv7 p2v8     4Warning: parameter is set to %u
+  5Hello, world!!!
+  5%lld  5Goodbye, world!!!
+                $ˇ                     "                                                               hello                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ˇˇˇˇ |            @      ÑÖÜé $                  ÑÖÜáàâäé ,           |      ÑÖÜáàél   Œ»«∆≈ƒ Á7       #  0  ?             ú  %   %   %   F   F    ˘$  _   M     X   ø  p   õ  ÷  É   À  å%  ù  ù   m     ∞   	int ∞     F   ß  ,‘   á   ;  *Á   U  
+s8 d   
+u8 w   
+u16 ë     
+s32 §     
+u32 º   
+s64 »   
+u64 €   F    
+e  o"   Ñ   %   u  F    •  )  1F   b  2F   ≥  DF   g  E∞   !  X‘   X   ∏  «  8–  √  p  	ù   j  	Ó  §   ä  	 |  `   	!à  ±   	.¨  Õ  	7î  ë  	<†  √  	\F   b  	ûF   	∞	`  p  	±∞     ì  	≤I  ›  	∫î  T  	ªî   Ë%  	ªî   l  V	  	‡√  T  	·√   ¢  	‚	‘   ö  ‘  √   …    
+tÊ  Ï  ∞   S  
+⁄  Ò       
+á˝  O  
+á1˝  j  
+à˝  e  
+à6˝  X   C   s
+  
+è8  '  
+ê∏  F  
+ëF   h  
+ö‚  y  
+†–  å  
+¢‚  é   @Ju  ⁄  K?/   3  Nl  ˛  Q÷-  k%  TÊ-  Hπ  U¥.  |“"  VM   Äœ  WM   Ñº  Xw%  àË  [<0  å  \B0  ê   ]F   îÆ  a  òkp cH0  ¨Ï  dF   ∞§   gF   ¥ı  h<0  ∏n  iB0  º	  |‚  ¿  <0  ƒ!  ÄB0  »h  ÅF   Ã[  ÑF   –Œ  Ö S0  ‘˛	  àÊ  ÿí  ãò/  @ Ω  åò/  0[  èÜ-  `”  ë%   å  ïF   êg  ñl  îŸ  óY0  ú   ú_0  †Í  ù˝/  §Æ  †j0  ∞&  £u0  ¥Ø  ®∏  ∏‘!  ¨ã  º~  ≠F   ¿ß  ±F   ƒÄ  ≤{0  »  πF   Ãa  ∫Å0  –3  Ωå0  ‘‘  æF   ÿ˚  øù0  ‹õ!  ¿F   ‡v  —l  ‰{	  ”l  Ï6  ÷	–  Ù§  ÿ`  ¯ 0  ç    G©  ˆ  H%    ˛  IM    Å    F   à   F   y   `  _   ›   “  Û  ›  \  ›  ∞      8  ?˙  i  S8     ¿∞   s  ¡∞   "  !∞   |  B  R  ·%G  8  <Å  È  =%   :  >ï   »  E$Y  u  ù  ∞    ]  F™  é    ∞   (  ∞   q%  ∞   È  ∞   :  ∞   p  ∞   ‚  ∞   m   ∞   Ò!  ‚  £  !`  „$  5∞   W  7‚   Y  F   =ä  ˝   R%    „  w  r       Ä  EL  !*  \–  "&  ]X      ^X   é  _‚   ó  –  Â  F    ’  P"  b Â  ,  d›  ÷  o›  à  S	  2  %    ¡  M   B  #ù   w&  %ù   
+ Ã  {	  }&  ∞    ∑  ∞    ë  q£	  Î  r	æ	   `  s	È	   ≥	  ≥	  %    π	  P  £	  ﬁ	  ≥	  ≥	  %   ﬁ	   ‰	  !  ƒ	  d	  x{	  Á  µ%   w  ∂>  Ì%  ∏
+  %
+  "  ∏'
+  \  .‘   €!  ?
+  #ô  HQ%   π  
+~
+  º     T     $†
+  %  &  %Ã  V
+   	∞
+  &~
+    ª   †
+  ¥  ∞   O  ∞   %  Ô
+  ‘  ∞
+      ‘
+  $>  %U  ?‘
+   @  =%  &˚
+    o  I  H  
+S	  <  #∞   m  $∞   o!  R∞   é  S∞   ˚  ¥  m  	ï  'val ı    Ò  ~  	∏  'val     Œ  °  ≠  "Ï  È  #%   :  $l   ◊  & ƒ  b	  W  b    %     F     l&  b8¯  …  c   a  F   áu  G   :  ∏   d  ⁄  i!       Ö  F    a  öu  (¶  F   '’  ü   Ç  _  Â  v  á	  é     æ  Â  F    ’  0  DÂ     W∞   %  4`*  ∏  a*   k
+  b%   0 l  :  F    ï   @nT  'x oT    X   c  )F    (  F   Ñ   W   }  J   
+  q   X&  Ï  ;  û  E  â  	+   
+£"  ≥
+   (H  F   ôë  "   µ   ;   –    ”  ¿!  z  x  Ñ"  –  	±  
+ê  u"  È    \      ¬  T   J  ‰  H&  8
+  ¨  ¬  B	  Œ  »    (	  F   »»  Ò   9    á  √       ﬂ  ¶  Ë6    «  È6    –  @Ï2    Ì2   C  Ó»  (   ∆  8~!  Ú%   < l  B  F     ¸  F   n  …     ú  ¿"   !\  $µ  ˆ  ∞    ˘	  ∞   ß  ∞     µ   l  ≈  F    !9  4˛  pcp n   
+  "Ó   $å  #˛  % Ó     F    !˝  '9  
+  (Ó    Ï  )9   Ó   I  F     J   F   .{  h    ö  3  ﬂ  Œ     Ä@g3  π  k3   $  m%   6  xC  Q  }Ï   ˛  ~#Ú  $¥%  Ö¯  (=  â%   ,I  ¥%   06%  µ%   4ê  ∂%   8˛  ∏M   <5   ¿%   @˘  »∞   D*]
+  À:  @Ä%  Œ˛  Äw&  —%   È  ‘%  ÙŒ
+  ◊:  @ Ñ  ﬁ%    
+  ‚%   o  ‰6      ÌF   %  ÓF     Ô∞   Â   Ù	‚  µ"  ˜	‚  G  ˘:  @@˝  ˚  @˝  ¸  p %   C  F    u  S  F    a  ¿@pÏ  *é  q¥  @ I  r≈   X  s∞   (Æ  u≥	  ,÷  ä%   0˛  ã%   4  å%   8∏  é∞   <R  èÏ  @A  êÏ  Lˇ  ëD
+  X´  ì∞   \√  îI  `+"  ñ∞   dU  ô∞   h¬  öI  lQ!  õÏ  p©  úD
+  |â  ¢%   Ä]
+  ≠:  @¿£  Æ%  ¿–  ¡  ƒw&  √%   Œ
+  ≈:  @@r  »$’  @˝  …€  D S  ≈  %       F    ∆    F    ∆  -  )F    +F   ;I  ·   ñ   !  Kt    Lt   …"  M∞    {  !‰  (^ó  ß  _ó    I  ß  F    ¸  d≥	  ,{  @≈  F    z  ’  F       ∆  Î  F    !  !  ˛  !`    #  "∞   y  "∞   ]  #5`  º  #6∆   .  #7%  'osq #9Î  Ô  #;l   ê  $Ø  ˆ  $∆   Ô  $ l  .  $!Ô
+  'osq $#Î  º  $(D
+   ≈  %   W  %    ›  %;Ø  ´!  %&F   ª  %YØ  Î  %ZØ    %[Ø  3  %\Ø  ,   "  F       !  %"  ,   J  F    F     4  ì	  %WJ  Ä  &g∞   Q  'ã%   Û  'å%   -£%  (P'>  @-Â  (QL1   @≈  (æ%   Û  2  ¶  a  )
+∞   œ  )∞   í  *øF   ‡   ‹  Ì  +Å!·  w  +Ç!·  Ç  +É!·  ?!  +Ñ!·    +Ö!·  '  +Ü!·  ƒ%  +á!·  x  ,j  ß  ,F    ≥  ,Ï     3v  |  ∞   ï  ï  %   ã   õ  Ó  6–  %  7j   T  8ï  ˜  9∞    ¨  A¯  4  B`   :  Cï   ;"  Ó&–  ]  M∞   ∞   !  F    ⁄  y  r  Ö8    äS  N  Y  ã   N  -F   $.>á  %¯  .?å  %Ò   .@>   ¯  á  
+  .=¿  &e   n  .B%   H
+  .Cã   
+  .Eí  ¨  .F∑   Z  -|F   ñ  -Ä∞   %      F    
+  /  N
+  0Gã  ˜   0H$  ,   F   (≠  F   0][  !
+          S   k  F    [  À  0dk  Í	  0f0  ®	  1	◊  ⁄  1
+∞    „  1∞   §  1∞   )&  1   ¶
+  1    à  Á  F    „  1◊  ’  2%     2%   Í  3R=  @  4$N  )  4%%    i  4&N    4'N     X  4+o  @  4,N    ∞       5(á  ∞   ™  ™  ∞   ã  u  3   ∞  .
+  $5q3  T  5sM      5tã  r  5u∞   Â  5v
+÷  Æ%  5w™    5xa  à  5yg  ’  5zã  ‹  5{ã      C  5_a  %   5``   ≥  5aÏ   {  9  B  ï  ∏  ∞  ä   ©  5   ¡  ñ  ó  68  ˇ
+  7!8  Ú
+  8^8     9	º     9
+ë   ∆  9º   ∑  9§   ¥  9º   $9å#  %™   9çÈ  %≈  9é≈   Û  9äK  O  9ãÈ   ë  9è   <  9ê#  ÿ  9∑≥  5  9∏ı     9π≈  π  9∫ı  U  9ªÉ   â  9ºÉ   ™  9Ω—   ö  9æW  !∞   (9/Z  ø  90ı   ç  91ı  †  92ı  Å  93≈  Á!  94›  \"  95ı  »  96ı  ¥	  97ı  ù  98ı   d"  99ı  $ K  e   *  :Z  .;cï  %¿  ;dl  /V	  ;eö   0€  ,;\  N  ;]É    s  ;^É   ˆ  ;_É   û  ;`É   l  ;a  	  ;bP  1q  j  ;gV  2¿  ;hf   ï  ä
+  ;pP  4  ;q%   √  ;r
+=  ≠  ;s      ã  f  F   ? %   |  F   F    3idr <±  ú  <   T  <F   À   <F    õ  Ä<‡Ã  ;  <·e    õ  <‰ÿ  ±  ˝   =R  ¡  =S%    º  =UT  	  =[à   ‡  <=∂à  'kn =∏X    w&  =πF   !  =º|  w  =Ω&  x  =æ&   ‘   =ø„"  $   =¬l  ($  =ƒÏ  0   ¸  =^©  P  =_X     .  X=ÅX   ˆ  =Ç`   d%  =É`  l  =çX   ˛  =éM   4rb =ê  'ns =í
+    =ìF    &ò!  ("  =ö
+ã  @'id =úz!  Hw&  =ùù   PÂ  =û÷  R$  =üÀ!  T ©  ?  =b†   'ops =cE!   Ö
+  =dP!  c  =e    =fX      ,=€@!  Ö
+  =‡ #   Ê  =·	€#  '  =Óı#  Á  =
+$  `!  =Ò
+.$  ¬  =Ú	D$  ¯  =Ùh$  o  =˛	  ﬂ  =‚   ≤  =h$  $  =	Ç$  ( †   @!  π  K!  =kz!  'ino =r&   £  =s&   5˚  =jò!  6V!  7id =u>   $=î∆!  7dir =ïﬁ  %±  =ñé  %ô  =ó^    I  ∆!  (   =©-"  ƒ  =™F"   é  =´k"  ã   =≠ä"  å&  =Øü"  ¯  =∞æ"  ƒ  =≤›"   ∞   F"  à  o  ∏   -"  ∞   `"  `"  à   f"  	  L"  ∞   ä"  X   M   ÷   q"  ∞   ü"  X    ê"  ∞   æ"  X   X   M    •"  ∞   ›"  `"  X   à   ƒ"  —!  B  T=«•#  'kn =…X    ¡  = õ  	  =À`"  "  =Ã
+ã  ]  =œ  €	  =–  $%   =—∞   83  =“l  <ú  =”
+∏  Do  =’  H8¨  =÷	‚  L8‚  =◊	‚  LÕ  =ÿ%Ø#  P %  •#  ™#  ∞   ƒ#  ƒ#   È"  µ#  €#  ƒ#   –#  ∞   ı#  `"  ã   ·#  ã  $  `"  3   ˚#  ã  .$  `"  ã  3   $  D$  `"  ã   4$  %  h$  ƒ#  ∏       J$  ∞   Ç$  ƒ#  ﬁ	   n$  (ß  F   >≠$  J     m	   y  >'	%  /  >(à$   †  >)	%  Ú  >*
+%  ö  >+>%    >,I%  ƒ  >-	H   ≠$  ‚  %  ã  %  
+  3%  3%   9%  ß  $%  
+  D%  ≤  ?w%  ˛  ?M    Â  ? ÷   }%  M  $@A5&  ˛  @BM    π  @Cl  l  @Dw%  ø  @EM'  „  @FØ'  'sd @GX   â  @Hÿ&  8E  @LF    8R  @MF    8⁄"  @NF    8]  @OF    8z  @PF     O%  5&  %  ?÷i&  '  ?◊á&   b   ?ÿ´&   A&  %  á&  w%  5&  ∏   n&  %  ´&  w%  5&  M      ç&  Â  AÃ&  ˆ  A`      A±&  â  BÛ&  Ì  BÃ&    ‰
+  @%8  ô  @)>  ø  4@¿M'  3  @¡l   ù  @¬%  >  @√}%  ≥  @ƒ G)  0 '  í  @ãØ'  Ê  @å	¿'   %  @ç∆'  Ä  @é;&  ï"  @è*·'  ï  @êˆ'  D%  @ë	(   S'  ¿'  w%   µ'  i&  €'  €'  w%   	%  Ã'  
+  ˆ'  w%   Á'  (  w%  s  y   ¸'  9∏  î@îh(  ¥  @ïh(   ¸  @ñx(  @  @ó∞   å'buf @òà(  ê2d
+  @ô∞   ê ∏  x(  F    ∏  à(  F    X   ô(  :F   ˇ º	  @úŒ(  }  @ùÌ(   ˛  @û)  Î  @ü6)   ô(  ∞   Á(  M'  w%   ”(  Á(  M   )  M'  w%   Ú(  )  ∞   *)  M'  w%  *)   (  )  0)  ™  @´i&  Œ(  3!  @Âw%  ˛  @Áw%  ©  @Èw%  ·  @Îw%     @Ìw%  Ì  C1À)  w&  C3F    'set C5Q*  'get C7k*  û  C9	H   â)  ∞   ‰)  M   ‰)   L*  )  CGL*  ˛  CHM    'mod CI,+  'ops CJ!2+  "  CK  ⁄  CLÓ   w&  CM˘   &q*   Í)  –)  ∞   k*  ∏  ‰)   W*  $CNü*  7arg CO	ã  7str CPÃ*  7arr CQ&+   û  CX«*  r  CYF    ﬁ   CZ∏   ü*  «*  Ÿ  C^!+  'max C`F    M	  CaF   'num Cb*  'ops Cc!2+    Cdã   “*  !+  ç  À)  L*  C+   8+  ^  CU"C+  Å  CU5C+  ï   CU&À)  8&  CZ&À)    C_&À)  ‹  Cd&À)  “  Ci&À)  Ò  Cn&À)  ä  Cs&À)  ‘  Cx&À)  )  C}&À)  @  CÑ&À)  %  Câ&À)    Cè&À)  ø  Cï&À)  2	  C˛&À)  Y  C &À)  >  DO‚  É  DnJ,  L  Do`    ©  E(g,  ;  E)g,    ,  x,  F    Ó  F≠,  ¢  Fã     Fã  j  F∞    û  F¸,  ˛  FM    'key F /,  Y  F!Ê  	  F"	–  5  F# ¸,   x,  â  F)#-  ≠,  -  F   G
+X-     Ü    ß  æ  Á  µ  Q     GÄ-  'plt GÄ-   w  G∞    ø  !  ,Gª-  5  Gª-   õ  G X-  ˛	  G!X-  $ À-  À-  F    —-  Õ  X   Ê-  F   ; ’
+  4,4.  >  -}%   'mod .,+  $ö
+  /w%  ('mp 09.  ,À  1m  0 ;  4.  %%  4õ.  ô  5O%   '  6¿.  b   8‰.  i  :	˙.    ;/  û  <	 /   %  ¥.  ¥.  ∫.  ∏   ?.  Ê-  õ.  %  ‰.  ¥.  ∫.  M      ∆.  ˙.  ,+  M    Í.  ∞   /  ,+    /   /  ,+   /  i  H ?.    
+∞    1  F   k/  »   á!  ë   ;   <d  ò/  mod ,+   *   J,   <  0#˝/  ï  %ã   c  'F   W  )F   "  +F   Ó  -F   =mtn 0k/   !s  ;60  ‡  <60   *  =F   ]  >∏   ≥  ©  !  Í)  €  N0  	  ˝/  É  e0  ä  p0  -  M   Æ  í0  á0  ˛"  £0  ò0  ÿ  Í  ∏  M'  ñ%  S'  ⁄  ∞     å‚  ˘0  ˘0  F    ˇ0    I  -È0  T  /È0  _   .1  F    1  >   .1  Q   ?ˆ  
+1      _   h1  F    X1  ?ï  h1      >A  L*      _   ¢1  F    í1  >˛%  ¢1  =   _    1  F   < ∫1  >∆   1      ñ  
+2  !   l   …
+  
+¶   ?«  l     @(  A    |   ú3  Apos Cî         B,       r2  Cf   F*ã  D,       E§  F*  Fû4  @   ∏   IÒ2  G´4  H∏   I∑4  I√4  Fm6  d   –   Ê2  Gz6  JÜ6  Ë   I©6  KÔ6  d   Ë   G7  G7  G¸6     LX   π7    L8   ≈7  M|   ≈7   N¨   ∞          úò4  OT  'ò4        Ai (1  9   7   FŒ4  \       +
+|3  GÌ4  G‡4  J˙4  (   I˚4  Ll   —7    Fû4  ∞   H   84  G´4  HH   I∑4  I√4  Fm6  ‘   h   ¯3  Gz6  PÜ6  ‘      I©6  QÔ6  ‘   ‘      G7  G7  G¸6     L»   π7    Fü5  à   Ä   2|4  G∏5  G¨5  K≈5  à   †   ]GÍ5  Gﬁ5  G“5  Pˆ5  î      I6  QÔ6  î   î      BG7  G7  G¸6      L8   ≈7  Lú   ﬁ7  L¨   ≈7   ‚1  R  Œ4  S:  "î  Tpos î  Tn î   Uˆ"  ˜ã  
+5  Vc  ˜-  Vw&  ˜9=  WXπ  ˛F     UQ  æã  D5  Vc  æ3  Vw&  æ?=  XÛ$  ¿F    Uç  :%F   d5  Vc  ::   Y3  a2  Å5  Zkt a-≤   YÑ  I'∞   ü5  Sc  I?%    [1  [≈5  Znew [4î  S:  [Kî   [?  8'6  Znew 81î  SË%  9î  ST  :î  W$B6  %"  Bî  7__c B'6   T__u B˜5    X   76  F     Y  &‚  m6  Znew &7î  SË%  'î  ST  (î   [Ã	  ∑6  S3  5î  W$©6  %"  î  7__c '6   T__u á6    Y∆  J∞   ”6  Zn J&   \fls K∞   Ô6  Zx K$∞    [`  ÷7  Zp ÷>7  Zres ÷Gã  Sc  ÷P∞    %7  ]^û4      @   úπ7  _´4  P   L   `∑4  r   n   I√4  am6  4   4      Ø7  Gz6  PÜ6  4      I©6  QÔ6  4   4      G7  G7  G¸6     L$   π7   b¢	  ¢	  πb˚  ˚  Øc:  :  åb∂!  ∂!  )C ¨1   Ÿ  RH  '-  Œ?    F=           >   >    ,J  W   E   º=  P   h,  >   /   >   	˘+  qú   
+z@  r	∑    
+˜>  s	‚    ¨   ¨       ≤   ©2  ú   ◊   ¨   ¨      ◊    ›   ™A  Ω   Â/  xt   !,     g8  O-    D/  øJ  n9  -  G8  ˘3  @  int @  Œ:  >   ﬁE  Û<  *k  œC  s8 Ù   u8   u16 !  à  s32 4  ô  u32 L  u64 _     “  >    g;  z,  1>   Ò@  2>   Q*  D>   =  E@  ö.  XX  P     DB  8-     >  -  *  K  B'  D   Ÿ  '  !Â  F  .	  42  7Ò  B  <˝  Ò?  û>   ∞	±  
+)  ±@    /  ≤ö  	ZB  ∫Â  
+Ú(  ªÂ   
+K  ªÂ   Ω  ◊/  ‡  
+Ú(  ·   
+i:  ‚	%   Î  %       ∏9  µ   @  ∂∂   K  ∏O  U  õA  ∏'O  -9  .X  ÌD  	 ±     ã  >    P   ñ   Y1  
+^ã  ∏<  	L  ñD  
+!  )C  L  7D  4  Ä8  L  å   H'  ç∆  EA  é¢   	43  ä(  
+…C  ã∆   
+∞;  èﬁ   ⁄(  ê   	o>  ∑ê  
+ﬂ=  ∏“   
+´@  π¢  
+W)  ∫“  
+N4  ª  
+')  º  
+H*  ΩÆ   n7  æ4  N'  (/7  ã8  0“   B  1“   A  2“  z4  3¢  4G  4∫  ©G  5“  	3  6“  /0  7“  ;*  8“   ±G  9“  $ Á8  ≠p  KA  Æ“   ¢8  Ø“  «?  ∞“   (  {   #4  p  U:   @Jq  ´9  K /   ,4  NΩ  “6  Q∑-  ûJ  T«-  H
+-  Uï.  |H  VE   Äh+  WE   Ñ˝2  XX%  àí=  [0  å¡=  \#0  ê°&  ]>   îX=  a»  òkp c)0  ¨ä)  d>   ∞˚E  g>   ¥\2  h0  ∏—B  i#0  ºù/  |?  ¿ˇ5  0  ƒdF  Ä#0  »œ1  Å>   ÃC6  Ñ>   –∂5  Ö 40  ‘j0  à∂  ÿ.  ãy/  @ L@  åy/  0Ú>  èg-  `SD  ë   åÜ1  ï>   ê˛=  ñΩ  îR/  ó:0  úvE  ú@0  †c.  ùﬁ/  §,  †K0  ∞1K  £V0  ¥,B  ®  ∏!G  ¨á  ºR7  ≠>   ¿n:  ±>   ƒ˝A  ≤\0  »N3  π>   Ã≤,  ∫b0  –≠C  Ωm0  ‘;2  æ>   ÿ<3  ø~0  ‹ÚF  ¿>   ‡Ô-  —Ω  ‰¸/  ”Ω  Ïù1  ÷	-  Ùx7  ÿ±  ¯ 6  â  	ƒ7  G•  
+Ô4  H    
+“6  IE    }  ÅC  t∂  º   @  Ï*  ™  ¡  ÿ   4  áÕ  ﬁ@  á1Õ  1;  àÕ  <  à6Õ  ﬂ0  èã  ïB  ê  ‰(  ë>   ˜?  ö?  Ú.  †-  Û1  ¢?  W   [	   P	  ∫:  [	  øB  [	  @  É	   	9  ?x	  ‚.  Sã  ™=  ¿@  A  ¡@  jG  !@  „1  ¿	  #9  ·%≈	  	14  <ˇ	  
+Ä?  =ﬂ   
+®B  >.   a*  E$◊	  !“  
+  @   ⁄A  F(
+  
+  ±'  @  è1  @  §J  @  ]E  @  ≥-  @  D7  @  y>  @  '  @  >G  ?  ã6  !±  J  5@  +7  7?  "=  >   =  #v-   #ÖJ  #Ω;  #\/  #⁄B  #k4  #í&   Z8  E 
+  ˛6  \N  =K  ]P    ‘:  ^P   U:  _?     N  c  >    S  ùG  b c   (  d[	  æ5  o[	  	2=  —  
+Í<      
+∆3  E   
+©1  #-  
+íK  %-  
+ 	@E  ˘  
+òK  @   
+~:  @   (G  ˘  $B  CQ   	6B  
+8  
+#2  à   
+Ú(  à   Z  uB  ™  j(     	j  %8    Y'  Z  -/  @  ˘<  @  	≤J  ©  
+r(  j    ú@  é  >À  =6  ?é   	¿D  =ﬂ  %µ    (  IÀ  ◊@  
+—  7  #@  Ì+  $@  ∆F  R@  _9  S@  î*  π3  '  	O  &val R    è(  8  	r  &val ^    x=  [  	<@  "¶  
+Ä?  #ﬂ   
+®B  $Ω   n?  & ~  b	…  
+;  b…       Ÿ  >     áK  b8≤  g)  cŸ  "·+  >   á/  #9   #ã,  #F  #˝*  #Æ7  #¿F  #ˇ3   Ÿ  ?  >    ·+  ö/  '2  >   'è  #6>   #˚-  #p3  #´8  #G9  #0  #|5  #å.     ü  >    è  …*  Dü  Á:  W@  	9J  4`‰  
+p<  a‰   
+◊0  b   0 Ω  Ù  >    \:   @n  &x o    P     (>    'Ø>  >   ÑÑ  #<   #5<  #Ô&  #£*  #»E  #sK  #Â3  #Ÿ'  #å5  #:  #q6  	#Ω&  
+#ÍG  #1   '7  >   ôK  #^G   #ù6   #íE  #3  #åA  #b@  #G  #(  #)  #ÀG  #3C  	#H?  
+#.(  #ºG  #K,  #Ö-  ##;  #àB  #∑*  #;/  #´E  #√-  #dD  #cK  #§0  #}9  #)2  #√/  #ê;  #F   'è/  >   »Ç  #qD   #Ò;  #ß?  #˚D  #CD  #◊6   	‰6  ﬂ™  
+	C  Ë.    
+-  È.    	g?  @ÏÏ  
+H3  ÌÏ   
+º.  ÓÇ  (
+™&  o  8
+’F  Ú   < Ω  ¸  >    "ı4  >   (  #X@   #í@  #/  #H   ˙)  $o  º8  @   e0  @  6@  @  H3  o   Ω    >    »+  4∏  pcp (   o0  "r  $›,  #∏  % r  »  >    õ)  'Û  o0  (r   ¿6  )Û   r    >    "°E  >   .5  #øE   #˝B  #≥D  #})  #KB   ±)  Ä@gÌ  P>  k{   ¬'  m   :  xÌ  Ô)  }ñ   Ê5  ~#ú  $ÁJ  Ö¢  (Á=  â   ,<  ¥   0iJ  µ   4D  ∂   8“6  ∏E   <⁄&  ¿   @z/  »@  D)…0  ÀÙ  @Ä9J  Œ®  ÄíK  —   Ä?  ‘ﬂ  Ù51  ◊Ù  @ +  ﬁ    ®(  ‚   *  ‰.   öC  Ì>   ¥+  Ó>   Ã;  Ô@  <F  Ù	?  ¸G  ˜	?  Æ1  ˘Ù  @@µ;  ˚∏  @õ(  ¸»  p “  ˝  >    ;8  ¿@pñ  )@  q^  @ œD  ro   ÿ+  s@  (G+  u¨   ,ì8  ä   0ÿ7  ã   4◊<  å   81.  é@  <#:  è¶  @ÿ>  ê¶  La,  ë˛  X7  ì@  \Z>  î  `xG  ñ@  dÆ2  ô@  hâ:  ö  l®F  õ¶  p".  ú˛  |Ç4  ¢   Ä…0  ≠Ù  @¿t9  Æﬂ  ¿g?  ¡™  ƒíK  √   51  ≈Ù  @@+  »$  @µ;  …Ö  D ˝       º  ∏  >    o  »  >    o  ◊  (>    *>   ;Û  #"3   #/+   ∆=  K  ±)  L   H  M@   5  Ã5  (^A  >?  _A    Û  Q  >    ¬8  d¨   +5  @o  >    $    >     »  o  ï  >    	tF  ∞  
+áA  ±    FH  @   ,  @  	ƒ1   5
+  
+#2   6o   
+ˇ8   7ﬂ  &osq  9ï  
+h/   ;Ω   	'?  !Y  
+º8  !o   
+h/  ! Ω  
+ˇ8  !!©  &osq !#ï  
+#2  !(˛   	ñ9  "t  
+;  "…    {(  ";Y  G  "&>   T+  "YY  d-  "ZY  Î7  "[Y  !5  "\Y  $   Ã  >     º  Ú8  "Ã  $   Ù  >    >     ﬁ  0  "WÙ  ë3  #g@  Ë>  $ã   ë)  $å   ,÷J  %P'∂  @,ﬁ4  %QL)   @\?  %æ   O5  &
+@  1,  &@  0)  'ø>   ~'  u  ó=  (Å!z  _6  (Ç!z  A  (É!z  ñF  (Ñ!z  √<  (Ö!z  æ>  (Ü!z  ˜J  (á!z  	>  )  
+E(  )>    
+,.  )¶   ~.  3    !@  .  .     á   4  	Ö?  6i  
+π?  7   
+Ú(  8.  
+°=  9@   	J(  Aë  
+≠-  B
+   
+®B  C.   àG  Ó&i  ˚'  M@  @  ∫  >    s+  y™  À2  Öã  5  ä˝  Á  Ú  á   (8  *>   +>   q.  +?%  è'  +@∂   q.     	~0  +=Y  %˛   
+?:  +B   
+¥0  +Cá   ~0  +E+   E  +FG  ”.  *|>   Ô2  *Ä@     ô  >    £+  ,â  ∫0  -Gá  ï'  -HΩ  $   >   'ï6  >   -]Ù  #ç0   #åC  #t1  #·9   K     >    Ù  TA  -d  V0  -f…  	#0  .	p  
+ZD  .
+@   
+FC  .@  
+=+  .@  
+DK  .t  
+1  .t   !  Ä  >    ∑7  .p  =  /   ì-  /   É*  0Ré  œ@  1$Á  
+«)  1%    
+¬2  1&Á  
+éD  1'Á   ±  	ﬁD  1+  
+œ@  1,Á    @  v  {B  2(   !@  C  C  @  á    Ã   I  	ö0  $2qÃ  
+ª1  2sE    
+pB  2tá  
+ÊD  2u@  
+^.  2v
+3  
+·J  2wC  
+{B  2x˙  
+ÎB  2y   
+IE  2zá  
+PE  2{á    j  	î,  2_˙  
+∑&  2`±   
+,.  2a¶     “  €  O  r  I  #   )A  2   ∆3  /  E  38  f1  4!ã  -5cv  9.  5dΩ  .◊/  5eÎ   /T-  ,5\ˆ  
+µ1  5]   
+ÌC  5^  
+º8  5_  
+Ô,  5`  
+ÊC  5aˆ  
+ò/  5b1  0R  
+)  5g7  1ë9  5hG   v  	ˆ0  5p1  
+“(  5qﬂ   
+a(  5r
+é  
+ï5  5s ˆ   ¸  á  G  >   ?    ]  >   >    2idr 6í  
+Ñ6  6¸   
+—A  6>   
+i'  6>    	2  Ä6‡≠  
+¢1  6·¬    2  6‰π  í  	TF  7RÙ  
+_)  7S    
+<A  7UÌ  
+ò/  7[i   	¥6  <7∂i  &kn 7∏9    
+íK  7π>   
+r,  7º]  
+e5  7Ω™  
+"=  7æ™   
+r'  7øƒ"  $
+«:  7¬Ω  (
+˛7  7ƒ¶  0 Ù  	Õ9  7^ä  
+….  7_9     d3  X7Å9   
+º8  7Ç±   
+óJ  7É±  
+ÊC  7ç9   
+“6  7éE   3rb 7ê±  &ns 7íO  
+•>  7ì>    %y!  (
+¿(  7ö
+á  @&id 7ú[!  H
+íK  7ù-  P
+^.  7û3  R
+Œ=  7ü¨!  T ä  	ò2  7bÅ   &ops 7c&!   
+Ò0  7d1!  
+ 1  7ej  
+ 8  7f9    	ÉD  ,7€!!  
+Ò0  7‡´#   
+oA  7·	º#  
+6  7Ó÷#  
+Ö(  7
+#  
+∑F  7Ò
+$  
+z<  7Ú	%$  
+ñ(  7ÙI$  
+ÏA  7˛	v  â=  7?   j<  7I$  $eC  7	c$  ( Å   !!  ≤4  ,!  7k[!  &ino 7r™   
+,  7s™   4î+  7jy!  57!  6id 7u∂   7îß!  6dir 7ïø  H>  7ño  Í,  7ó?    ;  ß!  	E  7©"  
+&,  7™'"   
+F<  7´L"  
+)'  7≠k"  
+ßK  7ØÄ"  
+Z,  7∞ü"  
+n=  7≤æ"   !@  '"  i       "  !@  A"  A"  i   G"  Ü/  -"  !@  k"  9   E   3   R"  !@  Ä"  9    q"  !@  ü"  9   9   E    Ü"  !@  æ"  A"  9   i   •"  ≤!  	€*  T7«Ü#  &kn 7…9    
+∆3  7 4  
+Ü/  7ÀA"  
+¿(  7Ã
+á  
+ƒ1  7œ»  
+G0  7–»  $
+∑&  7—@  8
+,4  7“Ω  <
+ï4  7”
+  D
+ÏA  7’v  H7x8  7÷	?  L7q@  7◊	?  L
+F.  7ÿ%ê#  P CJ  Ü#  ã#  !@  •#  •#    "  ñ#  º#  •#   ±#  !@  ÷#  A"  á   ¬#  !á  #  A"  Ã   ‹#  !á  $  A"  á  Ã   ˆ#  %$  A"  á   $  !Ç  I$  •#    v  j   +$  !@  c$  •#  ◊    O$  ' /  >   8é$  #≠B   #∂)  #Ó/   	πA  8'Í$  
+®-  8(i$   
+X<  8)	Ù$  
+UC  8*
+ˇ$  
+\;  8+%  
+‹:  8,*%  
+8E  8-	·   é$   ?  Ô$   á  ˙$  !O  %  %   %  s8  %   O  %%  	2  9X%  
+“6  9E    
+^.  9 3   ^%  	F4  $:A&  
+“6  :BE    
+c=  :CΩ  
+ÊC  :DX%  
+i=  :E.'  
+WE  :Fê'  &sd :G9   
+Z9  :Hπ&  735  :L>    7£,  :M>    7!H  :N>    7÷-  :O>    7ÙC  :P>     0%  &  	û-  9÷J&  
+≈(  9◊h&   
+πE  9ÿå&   "&  !Ç  h&  X%  &     O&  !Ç  å&  X%  &  E   v   n&  	L2  ;≠&  
+è+  ;±    5  ;í&  	Z9  <‘&  
+Ê4  <≠&    K1  :%ã  (@  :)∂  	i=  4:¿.'  
+,4  :¡Ω   
+4?  :¬ﬂ  
+∑.  :√^%  
+õ5  :ƒ ()  0 Ï&  	<=  :ãê'  
+oA  :å	°'   
+û-  :çß'  
+n5  :é&  
+‹G  :è*¬'  
+,>  :ê◊'  
+wJ  :ë	Ú'   4'  °'  X%   ñ'  J&  !º'  º'  X%   Í$  ≠'  !O  ◊'  X%   »'  Ú'  X%       ›'  8å7  î:îI(  
+1B  :ïI(   
+ì>  :ñY(  
+;  :ó@  å&buf :òi(  ê1–0  :ô@  ê   Y(  >      i(  >    P   z(  9>   ˇ 	70  :úØ(  
+N:  :ùŒ(   
+“6  :ûÌ(  
+NC  :ü)   z(  !@  »(  .'  X%   ¥(  »(  !E   Á(  .'  X%   ”(  Á(  !@  )  .'  X%  )   ¯'  Ú(  )  ˚,  :´J&  Ø(  äF  :ÂX%  e2  :ÁX%  ¢4  :ÈX%  ⁄3  :ÎX%  √4  :ÌX%  	’5  =1¨)  
+íK  =3>    &set =52*  &get =7L*  
+,  =9	·   j)  !@  ≈)  E   ≈)   -*  	˙9  =G-*  
+“6  =HE    &mod =I+  &ops =J!+  
+YG  =Kî  
+Æ6  =Lr  
+íK  =M}  %R*   À)  ±)  !@  L*    ≈)   8*  =NÄ*  6arg =O	á  6str =P≠*  6arr =Q+   	)D  =X®*  
+ÊD  =Y>    
+5F  =Z   Ä*  ®*  	bA  =^+  &max =`>    
+Œ/  =a>   &num =b√  &ops =c!+  
+¨)  =dá   ≥*  +  â  ¨)  -*  $+   +  /:  =U"$+  ?  =U5$+  ÏE  =U&¨)  SK  =Z&¨)  ÷8  =_&¨)  u*  =d&¨)  À3  =i&¨)  ©<  =n&¨)  ^7  =s&¨)  M.  =x&¨)  ·;  =}&¨)  ∫C  =Ñ&¨)  ¥@  =â&¨)  Ü2  =è&¨)  Å;  =ï&¨)  ≥/  =˛&¨)  ˜(  = &¨)  &6  >O?  	@  >n+,  
+ˆ=  >o±    G)  ?(H,  :™>  ?)H,    +±  Y,  >    	wA  @é,  
+i:  @á   
+pB  @á  
+(  @@   	.  @›,  
+“6  @E    &key @ ,  
+38  @!∂  
+ß'  @"	-  
+8  @# ›,   Y,  K;  @)#ı,  é,  Ô,  ;>   A
+9-  #y2   #ﬂ2  #ò>  #¨3  #¶5  #dB  #C  #Ô'   	m2  Aa-  &plt Aa-   
+?  A@   ú  	°D  ,Aú-  
+	7  Aú-   
+S<  A 9-  
+j0  A!9-  $ ¨-  ¨-  >    ≤-  û9  P   «-  >   ; 	<1  4,.  
+∑.  -^%   &mod .+  $
+1  /X%  (&mp 0.  ,
+É<  1  0 8  .  	XJ  4|.  
+Í,  50%   
+≈(  6°.  
+πE  8≈.  
+ÊA  :	€.  
+Å1  ;.  
+,  <	/   !Ç  ï.  ï.  õ.      .  «-  |.  !Ç  ≈.  ï.  õ.  E   v   ß.  €.  +  E    À.  !@  .  +   ·.  /  +   ˆ.  Q6  H  .  Ó5  
+@  "™.  >   L/  #ú7   #ﬁF  #/'  #Ÿ)   <]4  y/  mod +   )™>   +,   <Ï9  0#ﬁ/  ¯B  %á    1  '>   E5  )>   ˆ6  +>   î?  ->   =mtn 0L/   Ñ3  ;0  ±9  <0   ‘=  =>   V4  >   ê  •  •  À)  ì<  /0  è  ﬁ/  >  F0  (*  Q0  „,  E   p;  s0  h0  7H  Ñ0  y0  —4  Í»  ,E  .'  …J  4'  °:  @  >BÚ0  
+¶3  B7   :…D  B˜0  :“7  B1   æ0    1  >    P   1  >     ?r/  BÚ0      W   :1  >   , *1  ?jC  B:1  |   W   b1  >   
+ R1  ?«&  B	b1  q   @q  B    W   ò1  >    à1  AD  Bò1  h    %U  $ >  & I  5 I  I  ! I/   I   :;9I  	$ >  
+ :;9I  >I:;9  (    '  4 :;9I?<  :;9   :;9I8  :;9  à:;9  '   I   'I  !      à:;9   :;9I8   :;9I8   :;9Ià8   :;9I8  4 :;9I?<   <  'I   >I:;9  !:;9  "&   #4 :;9I?  $:;9  % :;9I  & I8  ' :;9I8  (>I:;9  )! I  * :;9Ià8  +>I:;9  ,Ià  -4 :;9I?à<  .à:;9  / :;9Ià  0à:;9  1 Ià8  2 :;9I8  3:;9  4 :;9Ià8  5:;9  6 I  7 :;9I  8 :;9I8  9:;9  :! I/  ; :;9Ià8  <à:;9  = :;9Ià8  >4 :;9Ià  ?4 :;9I  @.:;9'@óB  A4 :;9I∑B  B  C4 :;9I  D  E. ?:;9'<  F1R∏BUXYW  G 1  HU  I4 1  J1U  K1R∏BUXYW  LâÇ 1  MâÇ ïB1  N.:;9'I@óB  O4 :;9I∑B  P1  Q1R∏BXYW  R.?:;9'   S :;9I  T4 :;9I  U.:;9'I   V :;9I  W  X4 :;9I  Y.:;9'I   Z :;9I  [.:;9'   \.:;9'I   ]5   ^.1@óB  _ 1∑B  `4 1∑B  a1R∏BXYW  b. ?<n:;9  c. ?<n:;9   %  $ >  & I  5 I  I  ! I/   I  4 :;9I?<  	:;9  
+ :;9I8  '   I   <   :;9I  $ >   :;9I   '  :;9  à:;9  &   4 :;9I?<  !   :;9   :;9I  :;9   :;9I8     à:;9   :;9I8   :;9Ià8   :;9I8    'I  !'I  ">I:;9  #(   $4 :;9I?  % I8  & :;9I8  '>I:;9  (! I  ) :;9Ià8  *>I:;9  +Ià  ,4 :;9I?à<  -à:;9  . :;9Ià  /à:;9  0 Ià8  1 :;9I8  2:;9  3 :;9Ià8  4:;9  5 I  6 :;9I  7 :;9I8  8:;9  9! I/  : :;9Ià8  ;>I:;9  <à:;9  = :;9Ià8  >à:;9  ?4 :;9Ià  @4 G:;9  A4 :;9I        H    U            P   ∏    U‰       U          P       V                    P   @    U               #    P0   @    P        ,                 @              |               Î7               <   L   \   \   \   \   \   l           <   L   \   \   \   l           L   P   ∞   ÿ   ‹   ‡           ‘   ÿ   ‹   ‡           |   Ä   à   à   à   ò           à   à   à   ò           @   d   h   p           d   d   h   p           d   d   h   l               @              |              {  ˚      /home/parallels/Desktop/HW6 ./include/linux ./include/uapi/asm-generic ./include/asm-generic ./arch/arm/include/asm ./include/uapi/linux ./include/asm-generic/bitops  hello.c   list.h   compiler.h   slab.h   ktime.h   int-ll64.h   int-ll64.h   posix_types.h   types.h   init.h   barrier.h   module.h   export.h   hwcap.h   atomic-long.h   printk.h   notifier.h   kernel.h   bug.h   time.h   page.h   memory.h   spinlock_types.h   lockdep.h   spinlock_types.h   time.h   highuid.h   uidgid.h   wait.h   nodemask.h   mmzone.h   stddef.h   osq_lock.h   debug_locks.h   mutex.h   rwsem.h   cpumask.h   rcupdate.h   timex.h   jiffies.h   timekeeping.h   timer.h   workqueue.h   completion.h   smp.h   smp.h   percpu.h   percpu.h   topology.h   arch_topology.h   gfp.h   rbtree.h   sysctl.h   umh.h   kmod.h   elf.h   elf.h   elf.h   radix-tree.h   idr.h   kernfs.h   kobject_ns.h   sysfs.h   kobject.h   refcount.h   kref.h   moduleparam.h   jump_label.h   rbtree_latch.h   tracepoint-defs.h   module.h   thread_info.h   getorder.h   log2.h   builtin-fls.h         .1. ü - f2∫
+0.¡~/       / û  .   .g ﬁÇ ñ|Ç . gÃæ~ƒ©|ÇL*3.
+R.M)[n///î
+0.Á~r.0Ñ]JKIj∫
+0.¡~d..	2/      ¡ G1K ÅK*ceNLK/-/-j∫
+~ê.0.¡~../-       ˚      ./arch/arm/include/asm ./include/uapi/asm-generic ./include/asm-generic ./include/linux ./include/uapi/linux /home/parallels/Desktop/HW6  hwcap.h   page.h   int-ll64.h   int-ll64.h   posix_types.h   barrier.h   types.h   memory.h   atomic-long.h   elf.h   elf.h   elf.h   module.h   export.h   init.h   printk.h   notifier.h   kernel.h   bug.h   time.h   spinlock_types.h   lockdep.h   spinlock_types.h   time.h   highuid.h   uidgid.h   wait.h   nodemask.h   mmzone.h   osq_lock.h   debug_locks.h   mutex.h   rwsem.h   cpumask.h   rcupdate.h   timex.h   jiffies.h   timekeeping.h   timer.h   workqueue.h   completion.h   smp.h   smp.h   percpu.h   percpu.h   topology.h   arch_topology.h   gfp.h   rbtree.h   sysctl.h   umh.h   kmod.h   radix-tree.h   idr.h   kernfs.h   kobject_ns.h   sysfs.h   kobject.h   refcount.h   kref.h   moduleparam.h   jump_label.h   rbtree_latch.h   tracepoint-defs.h   module.h   hello.mod.c   thread_info.h    SYSTEM_SUSPEND num_syms inactive_age event NR_BOUNCE nr_isolate_pageblock NR_ZONE_INACTIVE_ANON gid_t __mptr sysctl_panic_on_stackoverflow mkdir MODULE_STATE_GOING _Bool d_val elf32_shdr arch_spinlock_t idr_next syscall_ops workqueue_struct pgdir pcpu_unit_offsets unregfunc oops_in_progress nr_reserved_highatomic NR_ZONE_WRITE_PENDING ARM_SEC_MAX movable_zone prio spinlock_t NR_SLAB_UNRECLAIMABLE WORKINGSET_NODERECLAIM done blocking_notifier_head gfp_mask tickets raw_lock cpumask_t seq_start kuid_t read vm_numa_stat compact_cached_free_pfn priv show hex_asc xa_lock Elf32_Dyn reset_devices next param_ops_string slots counter NR_ISOLATED_ANON st_other sysctl_timer_migration latch_tree_node st_size subdirs _unused_nodemask_arg_ ZONE_MOVABLE num_kp tick_nsec per_cpu_nodestat elem zone KOBJ_NS_TYPE_NET __rb_parent_color MODULE_STATE_UNFORMED zone_pgdat per_cpu_pages bool compact_cached_migrate_pfn module_notes_attrs sh_addralign st_shndx __kernel_size_t uint panic_notifier_list param_ops_int gfp_allowed_mask user_namespace NR_ZONE_ACTIVE_ANON NR_WRITEBACK_TEMP migratetype_names kernfs_open_file initcall_entry_t N_HIGH_MEMORY per_cpu_nodestats percpu_drift_mark MAX_ZONELISTS socket_id node_mem_map __cpu_possible_mask srcversion sysctl_lowmem_reserve_ratio refs kernfs_node_id __per_cpu_offset list_free compact_defer_shift per_cpu_pageset kmalloc_caches nr_zones node_states overflowgid kobj_ns_type_operations cpu_user_fns free generation sect_attrs index __s8 remount_fs persistent_clock_is_local NR_FILE_MAPPED rename kswapd __list_add_valid elf_hwcap ino_idr __kernel_uid32_t N_ONLINE ctl_table_poll state_in_sysfs trace_bprintk_fmt_start debug_locks_silent vm_stat_diff attr exceptional kobj_sysfs_ops modinfo_attrs recent_scanned __u8 radix_tree_node __cpu_online_mask SYSTEM_BOOTING NR_FILE_PAGES freq_scale sysfs_ops type rwsem panic_on_io_nmi NR_SHMEM_PMDMAPPED state_remove_uevent_sent source_list MIGRATE_MOVABLE core_layout tracepoint kcompactd wait node_id private_list vm_ops param_ops_ullong mode core_kallsyms mpu_rgn_info notifier_fn_t MIGRATE_TYPES __kernel_loff_t module_state kobj reclaim_stat target_kn setup_max_cpus devkmsg_log_str late_time_init elf_hwcap2 atomic_t WMARK_HIGH kobj_ns_type prove_locking NR_SHMEM unsigned char bug_table SYSTEM_HALT wait_list initialized seq_file lru_list root async_probe_requested param_array_ops NR_WRITTEN elemsize callback_head cpu_user KOBJ_NS_TYPES target_list MIGRATE_CMA cpu_bit_bitmap kfree cputopo_arm sh_info kset_uevent_ops INIT_LIST_HEAD prealloc_mutex pcpu_chosen_fc high init stat_threshold secondary_data PCPU_FC_AUTO ctl_table NR_VMSCAN_WRITE stack pcpu_base_addr _pad1_ buflen nr_free boot_command_line open radix_tree_root drivers_dir core_sibling NR_VM_ZONE_STAT_ITEMS time _pad2_ module_kobject uevent_helper elf_platform modprobe_path PCPU_FC_PAGE test num_bugs panic_timeout exit bitmap line _pad3_ shift procname mutex size num_gpl_future_syms file_operations initcall_debug ida_bitmap migratetype attribute owner NR_DIRTIED size_t num_trace_events refcount_struct gpl_syms mm_kobj mod_plt_sec ARM_SEC_INIT param_ops_invbool list_add_tail kernfs_elem_attr page kcompactd_max_order rb_right numa_zonelist_order ARM_SEC_DEVINIT __boot_cpu_id __compiletime_assert_24 holders_dir sh_link NR_INACTIVE_FILE ZONELIST_FALLBACK dynamic trace_evals kmem_cache lists num_trace_bprintk_fmt kernfs_node kmem_cache_alloc_trace kmalloc_large MIGRATE_RECLAIMABLE mod_kallsyms rcu_scheduler_active __param_str_value ARM_SEC_EXIT init_user_ns file __ilog2_u32 param_ops_uint power_kobj NR_ZONE_UNEVICTABLE __s32 NR_NODE_STATES __con_initcall_start _DYNAMIC list atomic_notifier_head kobject st_info strtab mod_tree_node SYSTEM_RESTART sh_addr totalreserve_pages prealloc_buf hypervisor_kobj kernfs_open_node firmware_kobj module_mutex jiffies refcount value zone_watermarks refcount_t contig_page_data hello_exit __cpu_active_mask state_initialized text_size timekeeping_suspended last_ino default_attrs MIGRATE_ISOLATE NR_MLOCK __s64 rnode uevent_ops ARM_SEC_DEVEXIT extable hex_asc_upper zonelist kernel_param_ops pageset modules_disabled gpl_future_syms seq_show __this_module static_key_initialized rlock num_exentries module_uevent system_highpri_wq NR_KERNEL_STACK_KB idr_rt panic_cpu pcpu_fc NR_INACTIVE_ANON __UNIQUE_ID_value23 level kernfs_root vm_node_stat_diff name NR_LRU_LISTS zone_reclaim_stat ro_size taint_flag unwind overflowuid node_stat_item early_boot_irqs_disabled panic_on_warn percpu_size param_ops_ulong Elf32_Sym refcnt kswapd_order kobj_uevent_env MODULE_STATE_LIVE N_MEMORY cpu_topology kernel_symbol node_present_pages __cpu_present_mask deactivate_waitq funcs module_param_attrs total_cpus regfunc pglist_data short unsigned int system_state kmalloc_index signed char sock mmapped Elf32_Word sh_name time_list_head node_start_pfn MIGRATE_PCPTYPES count mem_map notify_next param_ops_ushort cpu_all_bits wait_lock console_printk N_POSSIBLE kmsg_fops arch_phys_to_idmap_offset MIGRATE_HIGHATOMIC kref fs_overflowgid __u16 lru_lock NR_VMSCAN_IMMEDIATE tags cpumask unwind_table state symtab __pv_phys_pfn_offset kernfs_elem_symlink PCPU_FC_NR module_layout kernel_param lowmem_reserve NR_PAGETABLE kswapd_wait __start___param swapper_pg_dir filter get_order module zone_padding func num_tracepoints tz_dsttime kcompactd_classzone_idx module_sysfs_initialized linux_banner supers __u32 c_false initial_ns page_group_by_mobility_disabled envp_idx kernfs_iattrs bits NR_FILE_DIRTY __security_initcall_start true tracepoint_ptr_t netlink_ns long int trace_event_call param_ops_bint NR_INDIRECTLY_RECLAIMABLE_BYTES notifier_block vm_stat SYSTEM_RUNNING compact_order_failed param_ops_charp LRU_ACTIVE_ANON managed_pages NR_FREE_PAGES __security_initcall_end NR_ZONE_LRU_BASE show_options core current_may_mount write free_list seq_stop kobj_completion exception_table_entry param_ops_long Elf32_Addr system_freezable_wq node_spanned_pages bug_addr __u64 __param_value lock_stat system_states __kernel_ssize_t next_generation bug_entry kobj_type long unsigned int param_lock entry kset show_path kgid_t cpu_scale prealloc syms system_wq priority printk_delay_msec char crcs zoneref iattr num_symtab st_name zone_start_pfn enabled kmalloc_dma_caches bug_list umode_t completion module_sect_attrs namespace MIGRATE_UNMOVABLE symlink watermark kswapd_classzone_idx elf32_sym sysctl_panic_on_rcu_stall envp ARM_SEC_CORE hash node zone_stat_item system_power_efficient_wq pfmemalloc_wait tick_usec arch cpu_copy_user_highpage plt_count __stop___param rw_semaphore list_lock _zonerefs WORKINGSET_ACTIVATE preset_lpj lruvec wait_queue_head_t lock ro_after_init_size LRU_INACTIVE_FILE usercopy_fallback notifier_call ktime_to_ns /home/parallels/repos/linux-stable gfp_t rodata_enabled __pv_offset static_key node_zones uevent_seqnum batch wait_queue_head init_layout WMARK_MIN NR_UNEVICTABLE released cpu_clear_user_highpage WMARK_LOW raw_spinlock_t st_value param_ops_bool_enable_only rb_node sys_tz __con_initcall_end __kernel_gid32_t dmesg_restrict system_long_wq d_un time_list sh_flags sysctl_mount_point children d_ptr pcpu_fc_names kparam_array release tracepoint_func tail NR_ACTIVE_FILE __pv_table_end vm_area_struct /home/parallels/Desktop/HW6/hello.c idr_base panic_blink setup atomic_write_len tracepoints_ptrs ssize_t current_stack_pointer args argv __raw_tickets soc_mb __MAX_NR_ZONES list_head ARM_SEC_HOT ktime_t printk data slock proc_handler NR_WRITEBACK saved_command_line head __list_add KOBJ_NS_TYPE_NONE linux_proc_banner gpl_crcs SYSTEM_POWER_OFF poll sh_type base ZONE_NORMAL recent_rotated ARM_SEC_UNLIKELY Elf32_Off WORKINGSET_REFAULT core_id uevent grab_current_ns mmap initcall_t PCPU_FC_EMBED compact_considered trace_events param_ops_bool d_tag long long unsigned int parent offset uevent_suppress uid_t present_pages kparam_string hello_init Elf32_Sword LRU_UNEVICTABLE taints thread_id NR_ANON_THPS LRU_INACTIVE_ANON kernfs_ops rb_left Elf32_Half mod_arch_specific ZONE_HIGHMEM spinlock node_zonelists rb_root __write_once_size maxlen atomic_long_t LRU_ACTIVE_FILE usermodehelper_table pen_release module_kset drop_ns timezone extra1 extra2 ktype panic_on_unrecovered_nmi __UNIQUE_ID_license21 kallsyms header kernfs_syscall_ops NR_ACTIVE_ANON zone_type NR_SHMEM_THPS store ZONE_DMA NR_ZONE_INACTIVE_FILE long long int param_ops_byte num_gpl_syms loff_t N_NORMAL_MEMORY NR_VM_NODE_STAT_ITEMS string compact_blockskip_flush kernfs_elem_dir gpl_future_crcs optimistic_spin_queue kernel_kobj system_unbound_wq kcompactd_wait seq_next N_CPU fs_overflowuid refaults MODULE_STATE_COMING num_trace_evals nr_cpu_ids ktime_get NR_SLAB_RECLAIMABLE percpu task_struct sh_offset crash_kexec_post_notifiers perm NR_LRU_BASE kptr_restrict kswapd_failures reboot_notifier_list taint_flags sh_size sh_entsize false NR_ANON_MAPPED NR_ISOLATED_FILE child_ns_type NR_FREE_CMA_PAGES contiguous NR_WMARK zone_idx version state_add_uevent_sent __val kmalloc trace_eval_map debug_locks GNU C89 8.3.0 -mlittle-endian -mabi=aapcs-linux -mfpu=vfp -marm -mfloat-abi=soft -march=armv7-a -g -O2 -std=gnu90 -fno-strict-aliasing -fno-common -fshort-wchar -fno-PIE -fno-dwarf2-cfi-asm -fno-ipa-sra -funwind-tables -fno-delete-null-pointer-checks -fstack-protector-strong -fomit-frame-pointer -fno-var-tracking-assignments -fno-strict-overflow -fno-merge-all-constants -fmerge-constants -fstack-check=no -fconserve-stack --param allow-store-data-races=0 root_mountflags order unsigned int free_area vm_operations_struct module_attribute spanned_pages get_ownership SYSTEM_SCHEDULING active mkobj panic_on_oops raw_spinlock short int module_ktype jiffies_64 child pageblock_flags system_freezable_power_efficient_wq prev __pv_table_begin __UNIQUE_ID_valuetype22 notes_attrs c_true thread_sibling param_ops_short NR_UNSTABLE_NFS NR_ZONE_ACTIVE_FILE nodemask_t flags tz_minuteswest rmdir SYSTEM_SUSPEND num_syms inactive_age event NR_BOUNCE __UNIQUE_ID_name22 nr_isolate_pageblock NR_ZONE_INACTIVE_ANON gid_t sysctl_panic_on_stackoverflow mkdir MODULE_STATE_GOING _Bool d_val elf32_shdr arch_spinlock_t idr_next syscall_ops workqueue_struct pgdir pcpu_unit_offsets unregfunc oops_in_progress nr_reserved_highatomic NR_ZONE_WRITE_PENDING ARM_SEC_MAX movable_zone prio spinlock_t NR_SLAB_UNRECLAIMABLE WORKINGSET_NODERECLAIM done blocking_notifier_head gfp_mask tickets raw_lock cpumask_t seq_start kuid_t read vm_numa_stat compact_cached_free_pfn priv show hex_asc xa_lock Elf32_Dyn reset_devices next param_ops_string slots counter NR_ISOLATED_ANON st_other sysctl_timer_migration latch_tree_node st_size subdirs _unused_nodemask_arg_ ZONE_MOVABLE num_kp tick_nsec per_cpu_nodestat elem zone KOBJ_NS_TYPE_NET __rb_parent_color MODULE_STATE_UNFORMED zone_pgdat per_cpu_pages bool compact_cached_migrate_pfn module_notes_attrs sh_addralign st_shndx __kernel_size_t panic_notifier_list param_ops_int gfp_allowed_mask user_namespace NR_ZONE_ACTIVE_ANON NR_WRITEBACK_TEMP migratetype_names kernfs_open_file initcall_entry_t N_HIGH_MEMORY per_cpu_nodestats percpu_drift_mark MAX_ZONELISTS socket_id node_mem_map __cpu_possible_mask srcversion sysctl_lowmem_reserve_ratio refs kernfs_node_id __per_cpu_offset compact_defer_shift per_cpu_pageset nr_zones node_states overflowgid cpu_user_fns free generation sect_attrs __s8 remount_fs persistent_clock_is_local NR_FILE_MAPPED rename kswapd elf_hwcap ino_idr __kernel_uid32_t N_ONLINE ctl_table_poll state_in_sysfs trace_bprintk_fmt_start debug_locks_silent vm_stat_diff attr exceptional kobj_sysfs_ops modinfo_attrs recent_scanned /home/parallels/Desktop/HW6/hello.mod.c __u8 radix_tree_node __cpu_online_mask SYSTEM_BOOTING NR_FILE_PAGES freq_scale sysfs_ops type rwsem panic_on_io_nmi NR_SHMEM_PMDMAPPED state_remove_uevent_sent source_list MIGRATE_MOVABLE core_layout tracepoint kcompactd wait node_id private_list vm_ops param_ops_ullong mode core_kallsyms mpu_rgn_info notifier_fn_t MIGRATE_TYPES __kernel_loff_t module_state kobj reclaim_stat target_kn setup_max_cpus devkmsg_log_str late_time_init elf_hwcap2 atomic_t WMARK_HIGH kobj_ns_type prove_locking NR_SHMEM unsigned char bug_table SYSTEM_HALT wait_list _note_6 initialized seq_file lru_list root async_probe_requested param_array_ops NR_WRITTEN elemsize callback_head cpu_user KOBJ_NS_TYPES target_list MIGRATE_CMA cpu_bit_bitmap cputopo_arm sh_info kset_uevent_ops prealloc_mutex pcpu_chosen_fc high init stat_threshold secondary_data PCPU_FC_AUTO ctl_table NR_VMSCAN_WRITE stack pcpu_base_addr _pad1_ buflen nr_free boot_command_line open radix_tree_root drivers_dir core_sibling NR_VM_ZONE_STAT_ITEMS _pad2_ module_kobject uevent_helper elf_platform modprobe_path PCPU_FC_PAGE test num_bugs panic_timeout exit bitmap line _pad3_ shift procname mutex size num_gpl_future_syms file_operations initcall_debug ida_bitmap migratetype attribute owner NR_DIRTIED size_t num_trace_events refcount_struct gpl_syms mm_kobj mod_plt_sec ARM_SEC_INIT param_ops_invbool kernfs_elem_attr page kcompactd_max_order rb_right numa_zonelist_order ARM_SEC_DEVINIT __boot_cpu_id holders_dir sh_link NR_INACTIVE_FILE ZONELIST_FALLBACK dynamic trace_evals lists num_trace_bprintk_fmt kernfs_node MIGRATE_RECLAIMABLE mod_kallsyms rcu_scheduler_active _nhdr ARM_SEC_EXIT init_user_ns file param_ops_uint power_kobj NR_ZONE_UNEVICTABLE __s32 NR_NODE_STATES __con_initcall_start _DYNAMIC list atomic_notifier_head kobject st_info strtab mod_tree_node SYSTEM_RESTART sh_addr totalreserve_pages prealloc_buf hypervisor_kobj kernfs_open_node firmware_kobj module_mutex jiffies refcount value zone_watermarks refcount_t contig_page_data __cpu_active_mask state_initialized text_size timekeeping_suspended last_ino default_attrs MIGRATE_ISOLATE NR_MLOCK rnode uevent_ops ARM_SEC_DEVEXIT extable hex_asc_upper zonelist kernel_param_ops pageset modules_disabled gpl_future_syms seq_show __this_module static_key_initialized rlock num_exentries module_uevent system_highpri_wq NR_KERNEL_STACK_KB idr_rt panic_cpu pcpu_fc NR_INACTIVE_ANON level kernfs_root vm_node_stat_diff name NR_LRU_LISTS zone_reclaim_stat ro_size taint_flag unwind overflowuid node_stat_item early_boot_irqs_disabled panic_on_warn percpu_size param_ops_ulong Elf32_Sym refcnt kswapd_order kobj_uevent_env MODULE_STATE_LIVE N_MEMORY cpu_topology kernel_symbol _desc node_present_pages __cpu_present_mask deactivate_waitq funcs module_param_attrs total_cpus regfunc pglist_data short unsigned int system_state signed char sock mmapped Elf32_Word sh_name node_start_pfn n_descsz MIGRATE_PCPTYPES count mem_map notify_next param_ops_ushort elf32_note cpu_all_bits wait_lock console_printk N_POSSIBLE kmsg_fops arch_phys_to_idmap_offset MIGRATE_HIGHATOMIC kref fs_overflowgid __u16 lru_lock NR_VMSCAN_IMMEDIATE tags cpumask unwind_table state symtab __pv_phys_pfn_offset kernfs_elem_symlink PCPU_FC_NR module_layout kernel_param lowmem_reserve NR_PAGETABLE kswapd_wait __start___param swapper_pg_dir filter module zone_padding func num_tracepoints tz_dsttime kcompactd_classzone_idx module_sysfs_initialized linux_banner supers __u32 c_false initial_ns page_group_by_mobility_disabled envp_idx kernfs_iattrs bits NR_FILE_DIRTY __security_initcall_start tracepoint_ptr_t netlink_ns long int trace_event_call param_ops_bint NR_INDIRECTLY_RECLAIMABLE_BYTES d_un vm_stat SYSTEM_RUNNING compact_order_failed param_ops_charp LRU_ACTIVE_ANON managed_pages NR_FREE_PAGES __security_initcall_end NR_ZONE_LRU_BASE show_options core current_may_mount write free_list seq_stop kobj_completion exception_table_entry param_ops_long Elf32_Addr system_freezable_wq node_spanned_pages bug_addr __u64 lock_stat system_states __kernel_ssize_t next_generation bug_entry kobj_type long unsigned int param_lock entry kset show_path kgid_t cpu_scale prealloc syms system_wq priority printk_delay_msec char crcs zoneref iattr num_symtab st_name zone_start_pfn enabled bug_list umode_t completion module_sect_attrs namespace MIGRATE_UNMOVABLE symlink watermark kswapd_classzone_idx elf32_sym sysctl_panic_on_rcu_stall envp ARM_SEC_CORE hash node zone_stat_item system_power_efficient_wq pfmemalloc_wait tick_usec arch cpu_copy_user_highpage plt_count __stop___param rw_semaphore list_lock _zonerefs WORKINGSET_ACTIVATE preset_lpj lruvec wait_queue_head_t lock notifier_block ro_after_init_size LRU_INACTIVE_FILE notifier_call n_type /home/parallels/repos/linux-stable gfp_t rodata_enabled __pv_offset static_key node_zones uevent_seqnum batch wait_queue_head init_layout WMARK_MIN NR_UNEVICTABLE released cpu_clear_user_highpage WMARK_LOW raw_spinlock_t st_value param_ops_bool_enable_only rb_node sys_tz __con_initcall_end __kernel_gid32_t dmesg_restrict system_long_wq sh_flags sysctl_mount_point children d_ptr n_namesz pcpu_fc_names kparam_array release tracepoint_func tail NR_ACTIVE_FILE __pv_table_end vm_area_struct kobj_ns_type_operations idr_base panic_blink setup atomic_write_len tracepoints_ptrs ssize_t current_stack_pointer args argv __raw_tickets soc_mb __MAX_NR_ZONES list_head ARM_SEC_HOT data slock proc_handler NR_WRITEBACK saved_command_line head KOBJ_NS_TYPE_NONE linux_proc_banner gpl_crcs SYSTEM_POWER_OFF poll sh_type base ZONE_NORMAL recent_rotated ARM_SEC_UNLIKELY Elf32_Off WORKINGSET_REFAULT core_id uevent grab_current_ns mmap __UNIQUE_ID_vermagic21 initcall_t PCPU_FC_EMBED compact_considered trace_events param_ops_bool d_tag long long unsigned int parent offset uevent_suppress __module_depends uid_t present_pages kparam_string Elf32_Sword LRU_UNEVICTABLE taints thread_id NR_ANON_THPS LRU_INACTIVE_ANON kernfs_ops rb_left Elf32_Half mod_arch_specific ZONE_HIGHMEM spinlock _name node_zonelists rb_root maxlen atomic_long_t LRU_ACTIVE_FILE usermodehelper_table pen_release module_kset drop_ns timezone extra1 extra2 ktype panic_on_unrecovered_nmi kallsyms kernfs_syscall_ops NR_ACTIVE_ANON zone_type NR_SHMEM_THPS store ZONE_DMA NR_ZONE_INACTIVE_FILE long long int param_ops_byte num_gpl_syms loff_t N_NORMAL_MEMORY NR_VM_NODE_STAT_ITEMS string compact_blockskip_flush kernfs_elem_dir gpl_future_crcs optimistic_spin_queue kernel_kobj system_unbound_wq kcompactd_wait seq_next N_CPU fs_overflowuid refaults MODULE_STATE_COMING num_trace_evals nr_cpu_ids NR_SLAB_RECLAIMABLE percpu task_struct sh_offset crash_kexec_post_notifiers perm NR_LRU_BASE kptr_restrict kswapd_failures reboot_notifier_list taint_flags sh_size sh_entsize NR_ANON_MAPPED NR_ISOLATED_FILE child_ns_type NR_FREE_CMA_PAGES contiguous NR_WMARK zone_idx version state_add_uevent_sent trace_eval_map debug_locks GNU C89 8.3.0 -mlittle-endian -mabi=aapcs-linux -mfpu=vfp -marm -mfloat-abi=soft -march=armv7-a -g -O2 -std=gnu90 -fno-strict-aliasing -fno-common -fshort-wchar -fno-PIE -fno-dwarf2-cfi-asm -fno-ipa-sra -funwind-tables -fno-delete-null-pointer-checks -fstack-protector-strong -fomit-frame-pointer -fno-var-tracking-assignments -fno-strict-overflow -fno-merge-all-constants -fmerge-constants -fstack-check=no -fconserve-stack --param allow-store-data-races=0 root_mountflags unsigned int free_area vm_operations_struct module_attribute spanned_pages get_ownership SYSTEM_SCHEDULING active mkobj panic_on_oops raw_spinlock short int module_ktype jiffies_64 child pageblock_flags system_freezable_power_efficient_wq prev __pv_table_begin notes_attrs c_true thread_sibling param_ops_short NR_UNSTABLE_NFS NR_ZONE_ACTIVE_FILE nodemask_t flags tz_minuteswest rmdir  GCC: (GNU Toolchain for the A-profile Architecture 8.3-2019.03 (arm-rel-8.36)) 8.3.0  GCC: (GNU Toolchain for the A-profile Architecture 8.3-2019.03 (arm-rel-8.36)) 8.3.0 A0   aeabi &   7-A 
+A	
+"                                                                                                   	              
+                                                                                                                                                                                                                                 !              #              %              &              (              *              ,              .              /              0             Òˇ                 h             h   	     !   q        4   |   -                   K            S            Òˇ[                           
+ [              ^            i                                         [             s              x   $             Ï                        [              }       |     à   8          ç   @                                      í                          ˝            §           ≥       =     «   =        ﬂ   Q                                    ı                        !                                                                   7      |     F             L             c           o      @     y             Ä             ä              hello.mod.c $d __module_depends __UNIQUE_ID_name22 __UNIQUE_ID_vermagic21 _note_6 hello.c $a hello_init .LANCHOR0 .LC0 .LC1 hello_exit .LC2 .LC3 __param_str_value time_list_head __UNIQUE_ID_value23 __UNIQUE_ID_valuetype22 __UNIQUE_ID_license21 __param_value param_ops_uint __this_module __aeabi_unwind_cpp_pr0 cleanup_module kfree kmem_cache_alloc_trace init_module list_free printk ktime_get kmalloc_caches        M     +.     ,.  ,   +2  0   ,2  4   Q  <   +S  D   ,S  h   N  ò   R  †   +3  §   ,3  ®   Q  ƒ   M  Ï         +.     ,.     +8     ,8  4   Q  T   M  d   +9  p   ,9  x   Q      *       K      *       K      *       K           J     I                            ÿ   O  Ù  L            4     8     \     `                              !     (     I     [     e     s     x     Ü     ç     í     †     •     Ω     …     ◊     ‹     Í     Y    _    x    }    â    ï    °    ≠    ≈    ◊    „    Ò    ˆ                &    2    >    S    a    m    z    á    õ    ©    ∂    €    Ú    	        !    -    D    P    \    h    t    Ä    é    û    ¨    ∫    »    ÷    ‰    Ú                 *    8    S    a    o    }    ã    ô    ß    µ    √    —    ﬂ    Ì    ˝            +    :    I    X    g    v    Ö    î    £    ≤    ¡    –    ﬂ    Ó    ˝            *    9    H    W    f    v    Ç    è    ú    Ø    ª    «    „    Ô                *    6    C    M    Z    g    t    Ç    û    ±    æ    À    ÿ    Â    Ú    ˇ            &    3    @    M    `    f    l    r    x    ~    Ñ    ã    ò    ¶    ¥    ¬    Î    ¯    	    	    	    ,	    9	    F	    T	    a	    n	    |	    â	    ñ	    ∫	    Â	    	    ¸	    
+    
+    '
+    3
+    @
+    K
+    W
+    d
+    q
+    à
+    î
+    ±
+    Ω
+    …
+    ’
+    ‚
+    
+            &    2    >    J    V    b    n    s    ñ    π    ≈    “    ﬂ    Ì             ,    8    K    Q    W    ]    c    i    o    Ü    ì    •    ´    ±    ∑    Ω    √    …    œ    Î    ˜                ;    d    v    |    Ç    à    é    î    ö    †    ¶    ¨    ≤    ∏    æ    ƒ    À    ›    „    È    Ô    ı    ˚                            %    +    1    7    =    C    I    O    U    [    a    g    m    s    y        Ö    ã    í    §    ™    ∞    ∂    º    ¬    …    ÷    „    Ò    ˛            %    C    V    \    b    h    o    }    ã    ô    ß    ∆    ‚                +    J    ]    c    i    o    u    |    å    ö    ®    ∂    ƒ    “    ‡    Ó    ¸    
+        &    4    B    Q    _    n    }    ç    ú    ´    ∫    …    ÿ    Á    ˆ            $    T    d    s    Ç    ë    †    Ø    æ    Õ    ‹    Î    ˙    	        '    6    E    T    c    r    Å    ë    †    Ø    æ    Œ    ›    =    C    J    X    f    {    â    ®    Ï    ˘                ,    9    S    a    n    {    à    ¢    ∞    Ω    À    ◊    „    Ô    ˚        (    P    ]    i    u    Å    é    õ    ß    ∏    ƒ    —    ›    Ë    ı                )    6    C    P    ]    k    ú    ©    ∂    √    —    ﬁ    Î    ˘        "    /    <    Z    o    {    à    ì    ¶    ≥    ¡    Õ    Ÿ    Â                1    C    I    O    U    q    }    â    ñ    £    ∞    Ω         Ë    Ù                 '    4    A    U    b    |    ±    æ    À    ÿ    Â    Ú    ˇ            &    :    G    T    ã    ó    ¢    Æ    ∫    ∆    “    ﬁ    Í    ˆ            $    1    >    L    X    e    r        å    ô    ¶    ¥    ¿    Œ    ‹    Í    ¯            "    0    >    L    f    |    à    ñ    •    ≤    ø    Ã    Ÿ    Ê    ˙            )    6    C    ä    ó    §    ≤    ø    Õ    ﬂ    Ï    ˘            -    :    G    T    a    n    {    è    ú    ™    ∏    ≈    “    ﬂ              1     >     K     _     y     Ü     ì     °     Æ     ª     »     ’     ‚     Ô     ¸     	!    !    $!    2!    L!    m!    {!    Æ!    ∫!    «!    “!    ﬂ!    Ï!    ˘!    "    "     "    g"    Í"    #    #    #    *#    7#    D#    Q#    ^#    k#    x#    à#    ò#    ¶#    â$    õ$    °$    ß$    Æ$    ª$    »$    ’$    ‚$    Ô$    ¸$    :%    P%    ]%    j%    ~%    ã%    ò%    •%    ≤%    ø%    ÿ%    Â%    ı%    &    &    %&    B&    O&    \&    ≤&    ø&    Õ&    Ÿ&    Ê&    Ù&     '    '    '    &'    3'    @'    T'    a'    n'    {'    à'    ï'    ¢'    (    &(    3(    @(    Z(    ö(    ß(    ¥(    ¡(    <)    N)    Z)    f)    r)    ~)    ä)    ó)    æ)    Î)    ¯)    *    ,*    9*    †*    ≠*    ∫*    ”*    Ì*    +    I+    U+    a+    n+    {+    à+    ï+    ¢+    Ø+    º+    …+    ÷+    „+    +    ˝+    
+,    ,    $,    0,    =,    K,    Y,    y,    Ü,    ì,    †,    Æ,    ª,    ’,    ‚,    Ô,    -    (-    .-    4-    :-    @-    F-    L-    R-    Y-    s-    á-    î-    °-    Æ-    “-    Á-    Ù-    .    '.    5.    @.    M.    Z.    g.    t.    Å.    é.    '/    3/    @/    S/    Y/    _/    e/    l/    â/    ô/    ®/    ∂/    ƒ/    “/    ‡/    ˛/    0    0    (0    O0    f0    q0    à0    ô0    ™0    ∑0    ƒ0    —0    ﬁ0     1    1    1    41    B1    G1    T1    n1    {1    Ä1    é1    ®1    ∂1    –1    ﬁ1    „1    1    ˝1    2    2    2    $2    >2    B2    G2    T2    `2    i2    w2    |2    ç2    †2    •2    ∫2    »2    Õ2    Á2    Ú2    ˚2    3    3    3    *3    .3    <3    @3    I3    N3    h3    r3    Å3    Ü3    ó3    ™3    Ø3    ƒ3    ÷3    €3    ˘3    4    4    '4    ,4    G4    Y4    ^4    }4    Ü4    è4    ü4    ¨4    œ4    ·4    Ó4    ¸4    5    5    *5    75    E5    W5    e5    Ç5    ì5    †5    π5    ∆5    ﬂ5    Î5    6    86    U6    a6    n6    {6    ë6    ∏6    6    7    +7    >7    B7    K7    O7    ]7    b7    {7    ç7    í7    ∞7    ∫7    æ7    ∆7     7    “7    ÷7    ﬂ7    „7    Ò7    ˜7    ¸7     8    8    8    ,8    >8    H8    T8    `8    m8    z8    û8    …8    ‘8    ‡8    Ó8    Û8    9    9    9    9     9    89    F9    K9    Y9    ¿9    ≈9    —9    ›9    È9    ı9    :    :    +:    9:    >:    J:    V:    b:    n:    z:    è:    ù:    ©:    ∂:    √:    ◊:    Â:    Ú:    ;    #;    /;    B;    N;    [;    Ç;    é;    ö;    ¶;    ≤;    æ;    ”;    ﬂ;    Ï;    ˘;    <    <     <    -<    :<    G<    T<    a<    n<    |<    à<    ñ<    §<    ≤<    ¿<    Œ<    ‹<    Í<    ¯<    =    =    #=    1=    ?=    M=    g=    u=    Ö=    ì=    °=    Ø=    Ω=    À=    Ÿ=    Á=    ı=    >    >    >    :>    H>    V>    d>    r>    Ä>    é>    ú>    ™>    ∏>    ∆>    ‘>    ‰>    Ù>    ?    ?    !?    0?    ??    N?    ]?    l?    {?    ä?    ô?    ®?    ∑?    ∆?    ’?    ‰?    Û?    @    @     @    /@    >@    M@    ]@    i@    v@    É@    ñ@    ≠@    ƒ@    –@    ‹@    Ë@    Ù@     A    A    A    $A    0A    LA    XA    oA    {A    áA    ìA    üA    ¨A    ∂A    √A    –A    ›A    ÎA    B    B    'B    4B    AB    NB    [B    hB    uB    ÇB    èB    úB    ©B    ∂B    …B    œB    ’B    €B    ·B    ÁB    ÌB    ÙB    C    C    C    +C    TC    aC    nC    {C    àC    ïC    ¢C    ØC    ΩC     C    ◊C    ÂC    C    ¸C    	D    D    -D    9D    VD    bD    nD    zD    áD    ïD    ™D    ∑D    ÀD    ◊D    „D    ÔD    ˚D    E    E    E    ;E    ^E    jE    wE    ÑE    íE    ßE    ≈E    —E    ›E    E    ˆE    ¸E    F    F    F    F    +F    8F    JF    PF    VF    \F    bF    hF    nF    tF    êF    úF    ®F    µF    ¬F    ‡F    	G    G    !G    'G    -G    3G    9G    ?G    EG    KG    QG    WG    ]G    cG    iG    pG    ÇG    àG    éG    îG    öG    †G    ¶G    ¨G    ≤G    ∏G    æG    ƒG     G    –G    ÷G    ‹G    ‚G    ËG    ÓG    ÙG    ˙G     H    H    H    H    H    H    $H    *H    0H    7H    IH    OH    UH    [H    aH    gH    nH    {H    àH    ñH    £H    ∞H    ΩH     H    ËH    ˚H    I    I    I    I    "I    0I    >I    LI    kI    áI    ïI    ¥I    ¬I    –I    ÔI    J    J    J    J    J    !J    1J    ?J    MJ    [J    iJ    wJ    ÖJ    ìJ    °J    ØJ    ΩJ    ÀJ    ŸJ    ÁJ    ˆJ    K    K    "K    2K    AK    PK    _K    nK    }K    åK    õK    ™K    ∫K    …K    ÈK    ˘K    L    L    &L    5L    DL    SL    bL    qL    ÄL    èL    ûL    ≠L    ºL    ÀL    ⁄L    ÈL    ¯L    M    M    &M    5M    DM    SM    cM    rM    “M    ÿM    ﬂM    ÌM    ˚M    N    N    =N    ÅN    éN    úN    ®N    ¥N    ¡N    ŒN    ËN    ˆN    O    O    O    7O    EO    RO    `O    lO    xO    ÑO    êO    úO    ΩO    ÂO    ÚO    ˛O    
+P    P    #P    0P    <P    HP    UP    aP    lP    yP    ÜP    ìP    †P    ≠P    ∫P    «P    ‘P    ·P    ÔP     Q    -Q    :Q    GQ    UQ    bQ    oQ    }Q    âQ    ¶Q    ≥Q    ¿Q    ﬁQ    ÛQ    ˇQ    R    R    *R    7R    ER    QR    ]R    iR    ÖR    ëR    ùR    µR    «R    ÕR    ”R    ŸR    ıR    S    S    S    'S    4S    AS    NS    lS    xS    ÑS    êS    ùS    ´S    ∏S    ≈S    ŸS    ÊS     T    5T    BT    OT    \T    iT    vT    ÉT    êT    ùT    ™T    æT    ÀT    ÿT    U    U    &U    2U    HU    TU    bU    qU    ~U    ãU    òU    •U    ≤U    ∆U    ”U    ËU    ıU    V    V    VV    cV    pV    ~V    ãV    ôV    ´V    ∏V    ≈V    “V    ‡V    ˘V    W    W     W    -W    :W    GW    [W    hW    vW    ÑW    ëW    ûW    ´W    —W    ‰W    ˝W    
+X    X    +X    EX    RX    _X    mX    zX    áX    îX    °X    ÆX    ªX    »X    ’X    ‚X    X    ˛X    Y    9Y    GY    zY    ÜY    ìY    ûY    ´Y    ∏Y    ≈Y    “Y    ﬂY    ÏY    3Z    ∂Z    œZ    ‹Z    ÈZ    ˆZ    [    [    [    *[    7[    D[    T[    d[    r[    U\    g\    m\    s\    z\    á\    î\    °\    Æ\    ª\    »\    ]    ]    )]    6]    J]    W]    d]    q]    ~]    ã]    §]    ±]    ¡]    —]    ·]    Ò]    ^    ^    (^    ~^    ã^    ô^    •^    ≤^    ¿^    Ã^    ÿ^    Â^    Ú^    ˇ^    _     _    -_    :_    G_    T_    a_    n_    ‰_    Ú_    ˇ_    `    &`    f`    s`    Ä`    ç`    a    a    &a    2a    >a    Ja    Va    ca    äa    ∑a    ƒa    Îa    ¯a    b    lb    yb    Üb    üb    πb    ‡b    c    !c    -c    :c    Gc    Tc    ac    nc    {c    àc    ïc    ¢c    Øc    ºc    …c    ÷c    „c    c    ¸c    	d    d    %d    Ed    Rd    _d    ld    zd    ád    °d    Æd    ªd    œd    Ùd    ˙d     e    e    e    e    e    e    %e    ?e    Se    `e    me    ze    ûe    ≥e    ¿e    ⁄e    Ûe    f    f    f    &f    3f    @f    Mf    Zf    Ûf    ˇf    g    g    %g    +g    1g    8g    Ug    eg    tg    Çg    êg    ûg    ¨g     g    ÿg    Êg    Ùg    h    2h    =h    Th    eh    vh    Éh    êh    ùh    ¥h    ¡h    œh    i    i    +i    9i    Si    ai    oi  J  âi    ñi                        $     (     9     =     P     T     [     _     r     v     }     Å                          6                                              (     ,     0     4     8     <     H     L     P     T     X     \     h     l     p     t     Ä     Ñ     à     å     ê     î     †     §     ®     ¨     ∏     º     ¿     ƒ     –     ‘     ÿ     ‹     Ë     Ï          Ù                              ä    Ò    p     .symtab .strtab .shstrtab .note.gnu.build-id .note.Linux .rel.text .rel.init.text .rel.exit.text .ARM.extab .rel.ARM.exidx .rodata.str .ARM.extab.init.text .rel.ARM.exidx.init.text .ARM.extab.exit.text .rel.ARM.exidx.exit.text .rodata .modinfo .rodata.str1.4 .rel__param .rel.data .rel__bug_table .rel.gnu.linkonce.this_module .init.plt .bss .rel.debug_frame .rel.debug_info .debug_abbrev .rel.debug_loc .rel.debug_aranges .rel.debug_ranges .rel.debug_line .debug_str .comment .ARM.attributes                                                        4   $                  .             X                     >             p   @                  :   	   @       ¸Ÿ     1            í             ∞                     D   	   @       ⁄  p   1            ¿             †  |                  S   	   @       t⁄  H   1            b                                  q     pÇ                          m   	   @       º⁄     1   
+         |      2       $  $                 à             H                     °     pÇ       H                   ù   	   @       Ã⁄     1            ∂             P                     œ     pÇ       P                   À   	   @       ‹⁄     1            ‰             X                    Ï             `  ©                  ı      2         U                             d                      	   @       Ï⁄      1                        x                      	   @       €     1                        Ñ                      	   @       €     1            .            ¿             @       *  	   @       ,€     1            M           ¿                    H          ¡                    R            ¬                     [             ƒ  à                  W  	   @       <€  0   1   !         l             L  õi                 h  	   @       l€  ÿ4  1   #         x             Áo  ï	                 ä             |y  ê                  Ü  	   @       D Ä   1   &         ô             z  H                  ï  	   @       ƒ (   1   (         ¨             Tz                    ®  	   @       Ï †  1   *         æ             t{  "                 ∫  	   @       å    1   ,               0       ñÜ  ≠K                ’     0       C“  ¨                 ﬁ    p        Ô“  1                                 ”  @  2   I         	              `ÿ  ô                               § Ó                 
